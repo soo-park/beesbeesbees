@@ -1,2 +1,2 @@
-#beesbeesbees
-This is a project I completed as a student at [hackreactor](http://hackreactor.com). This project was worked on with a pair.
+# beesbeesbees
+### Tutorial in classes using JavaScript and JQuery
